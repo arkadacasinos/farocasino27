@@ -103,6 +103,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${manrope.variable} ${literata.variable} ${manrope.className} bg-background`}>
       <head>
+        <meta name="yandex-verification" content="1b338ef0f0c17079" />
         {/* Дополнительные пользовательские теги */}
       </head>
       <body className="antialiased">{children}</body>
